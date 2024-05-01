@@ -15,20 +15,23 @@ In the program, these classes are used, serving their own purposes:
 - Math: This class handled transformation matrices viz. translation matrix, rotation matrix, and scale matrix which manipulates the coordinates of coordinate systems we used namely model coordinate space which is the system in which all the original position of 3D model are placed, world coordinate space which is the system in which we plac..
 
 ## Project Report
-The detailed project report can be found [here](link_to_project_report.pdf).
+The detailed project report can be found [here](https://github.com/99-NinetyNine/3D-game-Engine-Graphics/blob/main/OOP_Final_Report.pdf).
 
 ## Presentation Slide
-The presentation slides can be found [here](link_to_presentation_slides.pdf).
+The presentation slides can be found [here](https://github.com/99-NinetyNine/3D-game-Engine-Graphics/blob/main/OOP%20Presentation.pptx).
 
 ## Screenshots
 Here are some screenshots of the Space Rider game:
 
-1. [Screenshot 1](link_to_screenshot_1.png)
-2. [Screenshot 2](link_to_screenshot_2.png)
-3. [Screenshot 3](link_to_screenshot_3.png)
-4. [Screenshot 4](link_to_screenshot_4.png)
+1. [Screenshot 1]([link_to_screenshot_1](https://github.com/99-NinetyNine/3D-game-Engine-Graphics/blob/main/a.png)
+2. [Screenshot 2](https://github.com/99-NinetyNine/3D-game-Engine-Graphics/blob/main/b.png)
+3. [Screenshot 3](https://github.com/99-NinetyNine/3D-game-Engine-Graphics/blob/main/c.png)
 
 ## How to Run
 To run the project:
 ```bash
-git clone project
+git clone #link
+```
+```bash
+run in debug mode. ensure directX11 is installed.
+```
