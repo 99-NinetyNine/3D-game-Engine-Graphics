@@ -35,3 +35,5 @@ git clone #link
 ```bash
 run in debug mode. ensure directX11 is installed.
 ```
+## Reference 
+[Pardcode](https://www.youtube.com/@PardCode/playlists)
