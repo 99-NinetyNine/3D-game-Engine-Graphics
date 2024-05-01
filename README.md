@@ -23,7 +23,7 @@ The presentation slides can be found [here](https://github.com/99-NinetyNine/3D-
 ## Screenshots
 Here are some screenshots of the Space Rider game:
 
-1. [Screenshot 1]([link_to_screenshot_1](https://github.com/99-NinetyNine/3D-game-Engine-Graphics/blob/main/a.png)
+1. [Screenshot 1](https://github.com/99-NinetyNine/3D-game-Engine-Graphics/blob/main/a.png)
 2. [Screenshot 2](https://github.com/99-NinetyNine/3D-game-Engine-Graphics/blob/main/b.png)
 3. [Screenshot 3](https://github.com/99-NinetyNine/3D-game-Engine-Graphics/blob/main/c.png)
 
